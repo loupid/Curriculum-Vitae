@@ -1,0 +1,37 @@
+.body {
+    background-color: dimgray;
+    display: flex;
+    justify-content: center;
+    font-family: "Comic Sans MS", serif;
+}
+
+.template {
+    background-color: burlywood;
+    width: 750px;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+}
+
+#v-navbar {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 650px;
+    height: 1000px;
+}
+
+#first {
+    margin-top: 5px;
+}
+
+.h-row {
+    display: flex;
+    flex-direction: row;
+    width: 630px;
+    margin-left: 10px;
+}
+
+.v-column {
+
+}
