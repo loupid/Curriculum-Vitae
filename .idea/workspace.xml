@@ -10,12 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="085200a9-9e31-4a99-ab9f-07f7fb698890" name="Default Changelist" comment="header is completed">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurriculumVitae.css" beforeDir="false" afterPath="$PROJECT_DIR$/CurriculumVitae.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurriculumVitae.html" beforeDir="false" afterPath="$PROJECT_DIR$/CurriculumVitae.html" afterDir="false" />
-    </list>
+    <list default="true" id="085200a9-9e31-4a99-ab9f-07f7fb698890" name="Default Changelist" comment="Work experience" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599220239483</updated>
       <workItem from="1599220240926" duration="968000" />
-      <workItem from="1599319535912" duration="11916000" />
+      <workItem from="1599319535912" duration="12060000" />
     </task>
     <task id="LOCAL-00001" summary="Test FOr the first commit">
       <created>1599220392511</created>
@@ -94,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599362860699</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Work experience">
+      <created>1599366217532</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599366217533</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +118,8 @@
     <MESSAGE value="Test FOr the first commit" />
     <MESSAGE value="Header done, need som fix for right answer" />
     <MESSAGE value="header is completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="header is completed" />
+    <MESSAGE value="Work experience" />
+    <option name="LAST_COMMIT_MESSAGE" value="Work experience" />
   </component>
   <component name="WindowStateProjectService">
     <state x="714" y="344" key="#Notifications" timestamp="1599220295576">
