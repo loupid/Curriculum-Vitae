@@ -32,6 +32,26 @@
     margin-left: 10px;
 }
 
+.header {
+    padding-left: 16em;
+}
+
+.left-text {
+    width: 1px;
+}
+
 .right-text {
-    padding-left: 15em;
+    padding-left: 10em;
+}
+
+.right-text h6, h4{
+    margin-bottom: -20px;
+}
+
+.right-text h6 {
+    font-style: italic;
+    font-weight: bold;
+}
+.right-text h4 {
+    text-decoration: underline;
 }
