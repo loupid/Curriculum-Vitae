@@ -10,12 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="085200a9-9e31-4a99-ab9f-07f7fb698890" name="Default Changelist" comment="Work experience">
-      <change afterPath="$PROJECT_DIR$/Ressource/headshot.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurriculumVitae.css" beforeDir="false" afterPath="$PROJECT_DIR$/CurriculumVitae.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurriculumVitae.html" beforeDir="false" afterPath="$PROJECT_DIR$/CurriculumVitae.html" afterDir="false" />
-    </list>
+    <list default="true" id="085200a9-9e31-4a99-ab9f-07f7fb698890" name="Default Changelist" comment="Work experience" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,11 +58,11 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\william\Projet\Curriculum-Vitae\Ressource" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\william\Projet\Curriculum-Vitae" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\william\Projet\Curriculum-Vitae\Ressource" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -158,15 +153,23 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="441" key="GitCloneDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599329924310" />
+    <state x="184" y="86" key="MergeDialog" timestamp="1599432175100">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599432175100" />
+    <state x="598" y="281" key="MultipleFileMergeDialog" timestamp="1599432180872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="598" y="281" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599432180872" />
     <state x="794" y="443" key="NewPhpFileDialog" timestamp="1599220256425">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="443" key="NewPhpFileDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599220256425" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1599366359687">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1599432189639">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599220501447" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599366359687" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599432189639" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599362925762">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
