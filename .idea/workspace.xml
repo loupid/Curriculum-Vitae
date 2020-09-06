@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="085200a9-9e31-4a99-ab9f-07f7fb698890" name="Default Changelist" comment="Test FOr the first commit">
+    <list default="true" id="085200a9-9e31-4a99-ab9f-07f7fb698890" name="Default Changelist" comment="Header done, need som fix for right answer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CurriculumVitae.css" beforeDir="false" afterPath="$PROJECT_DIR$/CurriculumVitae.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CurriculumVitae.html" beforeDir="false" afterPath="$PROJECT_DIR$/CurriculumVitae.html" afterDir="false" />
@@ -70,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599220239483</updated>
       <workItem from="1599220240926" duration="968000" />
-      <workItem from="1599319535912" duration="5702000" />
+      <workItem from="1599319535912" duration="8523000" />
     </task>
     <task id="LOCAL-00001" summary="Test FOr the first commit">
       <created>1599220392511</created>
@@ -79,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599220392511</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Header done, need som fix for right answer">
+      <created>1599329397637</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599329397637</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,7 +106,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test FOr the first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test FOr the first commit" />
+    <MESSAGE value="Header done, need som fix for right answer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Header done, need som fix for right answer" />
   </component>
   <component name="WindowStateProjectService">
     <state x="714" y="344" key="#Notifications" timestamp="1599220295576">
@@ -110,18 +118,23 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599319827866" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1599320440084">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1599329906725">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599320440084" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599329906725" />
+    <state x="690" y="441" key="GitCloneDialog" timestamp="1599329924310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="441" key="GitCloneDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599329924310" />
     <state x="794" y="443" key="NewPhpFileDialog" timestamp="1599220256425">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="443" key="NewPhpFileDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599220256425" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1599220501447">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1599329289490">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599220501447" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599329289490" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599220592895">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
